@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.235aae3c.css",
+    "main.js": "/static/js/main.18335662.js",
+    "static/media/UnutterableItalic-jE2E9.ttf": "/static/media/UnutterableItalic-jE2E9.b74676f9e2c95ca44813.ttf",
+    "static/media/Unutterable-z8E8X.ttf": "/static/media/Unutterable-z8E8X.35a7d258372ffc87226e.ttf",
+    "static/media/Bloodsuckers-m2ex.ttf": "/static/media/Bloodsuckers-m2ex.c10fbe3a9d3812df9651.ttf",
+    "static/media/ADrippingMarker-Ddw1.ttf": "/static/media/ADrippingMarker-Ddw1.d0316bf95b135611d4be.ttf",
+    "static/media/living by numbers.ttf": "/static/media/living by numbers.1fba732a33c7932fb136.ttf",
+    "static/media/Pasdecourbe-Wy9Y.ttf": "/static/media/Pasdecourbe-Wy9Y.eeeca00bbffc3dc3dc4e.ttf",
+    "index.html": "/index.html",
+    "static/media/slider-next.svg": "/static/media/slider-next.9ed6345529bf30a7b249.svg",
+    "static/media/slider-prev.svg": "/static/media/slider-prev.742427c7bf5b35e45f19.svg",
+    "main.235aae3c.css.map": "/static/css/main.235aae3c.css.map",
+    "main.18335662.js.map": "/static/js/main.18335662.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.235aae3c.css",
+    "static/js/main.18335662.js"
+  ]
+}
